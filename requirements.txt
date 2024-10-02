@@ -1,0 +1,6 @@
+streamlit
+numpy
+opencv-python-headless
+tensorflow==2.17.0
+scikit-learn
+Pillow
